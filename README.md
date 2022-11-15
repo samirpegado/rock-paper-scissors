@@ -1,4 +1,4 @@
-# This is a simple Rock Paper Scissors game for The Odin Project
+This is a simple Rock Paper Scissors game for The Odin Project
 
 Try this in https://samirpegado.github.io/rock-paper-scissors/
 
